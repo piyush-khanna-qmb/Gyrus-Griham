@@ -1,0 +1,8 @@
+com/example/ubidots3/BuildConfig.java
+ com.example.ubidots3.BuildConfig
+com/example/ubidots3/MainActivity.java
+ com.example.ubidots3.MainActivity
+ com.example.ubidots3.MainActivity$1
+ com.example.ubidots3.MainActivity$2
+ com.example.ubidots3.MainActivity$2$1
+ com.example.ubidots3.MainActivity$ApiUbidots
